@@ -1,0 +1,30 @@
+#map {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+}
+
+#settings, #efficiency {
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  font-family: Arial;
+  font-size: 10pt;
+  font-weight: bold;
+  background: rgba(200, 200, 200, 0.5);
+  position: absolute;
+  padding: 20px;
+  width: 300px;
+  top: 0px;
+  right: 0px;
+  z-index: 1000;
+  text-align: right;
+}
+
+#efficiency {
+  top: 50px;
+  width: 350px;
+}/*# sourceMappingURL=style.css.map */
